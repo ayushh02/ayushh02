@@ -1,5 +1,6 @@
-#                            Hello I'm Ayush,
-#                 currently pursuing my Btech from KIIT.
+<h1 bold align="center"> Hi 👋, I'm Ayush Kumar </h1>
+<h3 align="center">currently pursuing my Btech from KIIT University</h3>
+
 # 💫 About Me:
 🔭 I'm currently working on Frontend Development.<br>🌱 I’m currently sharpening my DSA skills.<br>👯 I’m open to collaborate in interesting projects.<br>📫 Reach me at ayush25602@gmail.com.<br>🎯 2023 Goals : A year dedicated to skills.<br>⚡ Fun fact I love football.
 
